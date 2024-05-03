@@ -1,0 +1,13 @@
+{
+  "shell_port": 40305,
+  "iopub_port": 57317,
+  "stdin_port": 48795,
+  "control_port": 47463,
+  "hb_port": 44573,
+  "ip": "127.0.0.1",
+  "key": "a3d92889-ac105dee2a0b5fee3b5c278b",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/amazon-bedrock-workshop/00_Prerequisites/bedrock_basics.ipynb"
+}

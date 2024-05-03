@@ -1,0 +1,13 @@
+{
+  "shell_port": 59803,
+  "iopub_port": 34907,
+  "stdin_port": 59745,
+  "control_port": 59047,
+  "hb_port": 52901,
+  "ip": "127.0.0.1",
+  "key": "e59013e2-54f15470f9533984edc3d97c",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/text-to-sql-bedrock-workshop/module_1/01_din_sql.ipynb"
+}

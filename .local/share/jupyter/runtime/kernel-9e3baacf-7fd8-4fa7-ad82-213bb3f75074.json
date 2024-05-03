@@ -1,0 +1,13 @@
+{
+  "shell_port": 49657,
+  "iopub_port": 58553,
+  "stdin_port": 59737,
+  "control_port": 38451,
+  "hb_port": 57347,
+  "ip": "127.0.0.1",
+  "key": "9c3a1604-55c48fd1fa51f508d746b3ea",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/amazon-bedrock-workshop/02_KnowledgeBases_and_RAG/2_Langchain-rag-retrieve-api-mistral-and-claude-v2.ipynb"
+}

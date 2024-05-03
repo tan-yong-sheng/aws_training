@@ -1,0 +1,13 @@
+{
+  "shell_port": 55135,
+  "iopub_port": 43009,
+  "stdin_port": 48273,
+  "control_port": 46175,
+  "hb_port": 59169,
+  "ip": "127.0.0.1",
+  "key": "ec2af25f-41ad3ea5d45f506f2265ba84",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/amazon-bedrock-workshop/05_Agents/insurance_claims_agent/without_kb/create_and_invoke_agent.ipynb"
+}

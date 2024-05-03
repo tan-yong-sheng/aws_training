@@ -1,0 +1,13 @@
+{
+  "shell_port": 45281,
+  "iopub_port": 37087,
+  "stdin_port": 56323,
+  "control_port": 42019,
+  "hb_port": 48069,
+  "ip": "127.0.0.1",
+  "key": "6a91c4b2-99057673c36b636e7dcf524d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/amazon-bedrock-workshop/02_KnowledgeBases_and_RAG/0_create_ingest_documents_test_kb.ipynb"
+}

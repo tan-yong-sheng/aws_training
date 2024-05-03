@@ -1,0 +1,13 @@
+{
+  "shell_port": 46001,
+  "iopub_port": 50421,
+  "stdin_port": 46507,
+  "control_port": 45039,
+  "hb_port": 41667,
+  "ip": "127.0.0.1",
+  "key": "72b82885-b9f7026a9fbcc8db49c67a68",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/amazon-bedrock-workshop/02_KnowledgeBases_and_RAG/4_CLEAN_UP.ipynb"
+}

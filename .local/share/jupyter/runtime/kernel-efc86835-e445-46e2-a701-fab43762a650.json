@@ -1,0 +1,13 @@
+{
+  "shell_port": 46623,
+  "iopub_port": 58133,
+  "stdin_port": 50725,
+  "control_port": 41165,
+  "hb_port": 59869,
+  "ip": "127.0.0.1",
+  "key": "9c746577-1f719b5f723aa931d5a76a93",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/amazon-bedrock-workshop/02_KnowledgeBases_and_RAG/1_managed-rag-kb-retrieve-generate-api.ipynb"
+}
